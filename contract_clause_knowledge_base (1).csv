@@ -1,0 +1,11 @@
+Clause_ID,Clause_Name,Requirement,Risk_Level,Compliance_Check
+C001,Delivery Period,Vendor must deliver goods within the agreed delivery period.,High,Compare planned and actual delivery dates.
+C002,Payment Terms,Payment must be made according to the agreed payment period.,Medium,Check agreed payment period.
+C003,Delay Notification,Vendor must notify the company about delivery delays within the specified time.,High,Check whether delay notification was provided on time.
+C004,Penalty / Liquidated Damages,Vendor may be charged a penalty for delayed delivery.,High,Check whether delay penalty conditions are applicable.
+C005,Insurance,Vendor must maintain valid insurance coverage.,High,Verify insurance validity.
+C006,Confidentiality,Vendor must protect confidential business and contract information.,Medium,Verify confidentiality requirements.
+C007,Termination,Contract may be terminated according to the agreed termination conditions.,High,Check termination conditions.
+C008,Force Majeure,Unavoidable events such as natural disasters may be covered.,Medium,Check whether the event qualifies as force majeure.
+C009,Applicable Law,Contract must follow the specified applicable laws.,Medium,Verify applicable law requirements.
+C010,Dispute Resolution,Disputes must be resolved according to the agreed procedure.,Medium,Verify dispute resolution procedure.
